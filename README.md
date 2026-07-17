@@ -16,6 +16,8 @@ The rule for this challenge was simple:
 3. Build the app by following that generated spec.
 4. Include the one-sentence prompt, the Kiro spec in `.kiro`, and a short demo video in the submission.
 
+**Demo video:** [Loom walkthrough](https://www.loom.com/share/8d6345abff7d4fedbc76cb412400f893)
+
 ## One-Sentence Starting Prompt
 
 `I want you to design and build an application that reads in a FIFA World Cup match report, the PDFs that they create after the game, and I want to be able to change the starting squad and have the application predict how the game would have turned out in that circumstance`
